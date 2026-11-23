@@ -12,6 +12,7 @@ import streamlit as st
 sys.path.insert(0, str(Path(__file__).parent / "src"))
 from predict import predict_risk          # noqa: E402
 from rag_chain import ask, build_rag_chain  # noqa: E402
+from build_index import CHROMA_DIR, build as build_index  # noqa: E402
 
 st.set_page_config(page_title="Diabetes Risk + RAG Assistant", page_icon="🩺")
 st.title("🩺 Diabetes Risk Prediction + RAG Assistant")
@@ -20,6 +21,8 @@ st.caption("Demonstration prototype - not medical advice.")
 
 @st.cache_resource            # build the chain once, not on every click
 def get_chain():
+    if not CHROMA_DIR.exists() or not any(CHROMA_DIR.iterdir()):
+        build_index()
     return build_rag_chain()
 
 

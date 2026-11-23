@@ -148,23 +148,24 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 ### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
+cp .env.example .env
 ```
+Add your API key to `.env`. `.env` is intentionally excluded from Git.
 
 ### 4. Configure the LLM (needed only for RAG answers)
-The ML part needs **no API key**. The RAG answer step needs an LLM:
+The ML part needs **no API key**. The RAG answer step supports Groq, Gemini, or OpenAI:
 
+```dotenv
+LLM_PROVIDER=groq
+GROQ_API_KEY=your_groq_api_key
+GROQ_MODEL=openai/gpt-oss-120b
+```
+Gemini and OpenAI are also supported. See `.env.example`.
+
+On first Streamlit launch, the app automatically creates the Chroma vector index from `docs/` if it is not already present:
 ```bash
-# Default: OpenAI
-export OPENAI_API_KEY="sk-..."              # Windows (PowerShell): $env:OPENAI_API_KEY="sk-..."
-
-# Option: Anthropic
-pip install langchain-anthropic
-export LLM_PROVIDER=anthropic
-export ANTHROPIC_API_KEY="..."
-
-# Option: Ollama (free, local)
-pip install langchain-ollama
-export LLM_PROVIDER=ollama                  # requires Ollama running with llama3.2 pulled
+python src/build_index.py
+streamlit run app.py
 ```
 
 ### Using Google Colab
@@ -198,7 +199,15 @@ cd src && python rag_chain.py
 streamlit run app.py
 ```
 
----
+## Deploy to Streamlit Community Cloud
+1. Push the repository to GitHub.
+2. Create an app using `app.py` as the entry point.
+3. Add `LLM_PROVIDER`, `GROQ_API_KEY`, and `GROQ_MODEL` under **Settings → Secrets**.
+4. Rebuild or reboot the app after changing dependencies or secrets.
+
+## Part 1 - Machine learning
+**Dataset:** Pima Indians Diabetes (public; 768 patients, 8 features, `Outcome` = diabetic or not).
+Download link: https://raw.githubusercontent.com/plotly/datasets/master/diabetes.csv
 
 ## 🤖 Part 1: Machine Learning
 
