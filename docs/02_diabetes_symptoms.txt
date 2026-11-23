@@ -1,0 +1,15 @@
+Symptoms of Diabetes
+Based on public guidance from WHO, CDC and NIDDK (summarised for this demo).
+
+Common symptoms of high blood glucose include:
+- Frequent urination, especially at night
+- Increased thirst and a dry mouth
+- Increased hunger
+- Unexplained weight loss (more typical of type 1 diabetes)
+- Extreme tiredness and fatigue
+- Blurred vision
+- Slow-healing cuts, sores or frequent infections
+- Tingling, pain or numbness in the hands or feet
+- Dark, velvety patches of skin around the neck or armpits (acanthosis nigricans), a sign of insulin resistance
+
+Type 1 diabetes symptoms often appear suddenly over days or weeks. Type 2 diabetes symptoms develop slowly and may be mild, so many people have no symptoms at all and only find out through a blood test. This is why screening is recommended for adults who are overweight or over the age of 35.

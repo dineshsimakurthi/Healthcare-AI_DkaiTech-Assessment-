@@ -1,0 +1,21 @@
+Hypertension (High Blood Pressure): Definition and Risk Factors
+Based on public guidance from WHO and the American Heart Association (summarised for this demo).
+
+Blood pressure is written as systolic over diastolic, for example 120/80 mmHg.
+- Normal: below 120/80 mmHg
+- Elevated: 120 to 129 systolic and below 80 diastolic
+- Hypertension: 130/80 mmHg or higher under US guidelines; WHO defines it as 140/90 mmHg or higher on repeated measurements
+- Hypertensive crisis: above 180/120 mmHg
+
+Hypertension is often called the silent killer because it usually has no symptoms. Severe cases may cause headaches, shortness of breath or nosebleeds.
+
+Risk factors:
+- Too much salt in the diet and too little potassium
+- Overweight and obesity
+- Physical inactivity
+- Excess alcohol and tobacco use
+- Older age and family history
+- Chronic stress and poor sleep
+- Diabetes, kidney disease and sleep apnea
+
+Untreated hypertension raises the risk of heart attack, stroke, heart failure and kidney disease. Many people with diabetes also have hypertension, which multiplies the risk of heart and kidney complications.

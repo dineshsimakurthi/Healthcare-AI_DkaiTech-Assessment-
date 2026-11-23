@@ -1,0 +1,17 @@
+Risk Factors for Type 2 Diabetes
+Based on public guidance from CDC and NIDDK (summarised for this demo).
+
+Factors that raise the risk of type 2 diabetes:
+- Being overweight or obese, especially extra fat around the waist
+- Physical inactivity
+- Family history: a parent or sibling with diabetes
+- Age: risk rises from about 35 to 45 years onwards
+- High blood pressure (130/80 mmHg or higher) and abnormal cholesterol or triglycerides
+- History of gestational diabetes, or giving birth to a baby weighing more than 4 kg
+- Polycystic ovary syndrome (PCOS)
+- Prediabetes
+- Certain ethnic backgrounds, including South Asian, African, Hispanic and Indigenous populations, have higher risk
+- Poor diet high in sugary drinks, refined carbohydrates and processed meat
+- Smoking
+
+Some risk factors such as age and family history cannot be changed, but weight, diet, activity and smoking can.

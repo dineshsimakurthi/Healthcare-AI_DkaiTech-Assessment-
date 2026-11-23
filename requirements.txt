@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+joblib
+langchain-core
+langchain-text-splitters
+langchain-chroma
+chromadb
+langchain-huggingface
+sentence-transformers
+langchain-openai
+streamlit
+python-dotenv
+langchain-groq
+langchain-google-genai

@@ -1,0 +1,10 @@
+How Diabetes Is Diagnosed
+Based on public guidance from WHO and the American Diabetes Association (summarised for this demo).
+
+Diabetes is diagnosed with a blood test. Common tests and thresholds:
+- Fasting plasma glucose (no food for at least 8 hours): normal is below 100 mg/dL (5.6 mmol/L). Prediabetes is 100 to 125 mg/dL. Diabetes is 126 mg/dL (7.0 mmol/L) or higher.
+- HbA1c (average glucose over about 3 months): normal is below 5.7 percent. Prediabetes is 5.7 to 6.4 percent. Diabetes is 6.5 percent or higher.
+- Oral glucose tolerance test (2 hours after a sugary drink): diabetes is 200 mg/dL (11.1 mmol/L) or higher.
+- Random plasma glucose of 200 mg/dL or higher together with classic symptoms also indicates diabetes.
+
+In the absence of clear symptoms, a high result should be confirmed with a repeat test on another day. A doctor makes the final diagnosis.

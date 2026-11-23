@@ -1,0 +1,14 @@
+Complications and Emergencies in Diabetes
+Based on public guidance from CDC and NIDDK (summarised for this demo).
+
+Long-term complications of poorly controlled diabetes:
+- Heart disease and stroke
+- Kidney damage (diabetic nephropathy)
+- Eye damage (retinopathy), which can lead to blindness
+- Nerve damage (neuropathy), causing numbness, pain and foot problems
+- Foot ulcers and, in severe cases, amputation
+- Gum disease and skin infections
+
+Hypoglycemia (low blood glucose, below about 70 mg/dL): shakiness, sweating, fast heartbeat, hunger, confusion, irritability. Treat immediately with 15 grams of fast-acting carbohydrate such as glucose tablets or fruit juice, then recheck after 15 minutes. Severe hypoglycemia with fainting or seizures needs emergency care.
+
+Hyperglycemia and diabetic ketoacidosis (DKA): very high glucose with extreme thirst, frequent urination, nausea or vomiting, stomach pain, fruity-smelling breath, fast breathing and confusion. DKA is a medical emergency and needs immediate hospital care.

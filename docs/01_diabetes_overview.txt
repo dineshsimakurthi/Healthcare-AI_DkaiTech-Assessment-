@@ -1,0 +1,12 @@
+Diabetes Overview
+Based on public guidance from WHO, CDC and NIDDK (summarised for this demo).
+
+Diabetes is a chronic condition in which the body cannot properly control the level of glucose (sugar) in the blood. Glucose is the main source of energy, and the hormone insulin, made by the pancreas, helps glucose move from the blood into the body's cells.
+
+Type 1 diabetes: the immune system destroys the insulin-producing cells of the pancreas. People with type 1 diabetes need insulin every day. It usually appears in children and young adults but can occur at any age.
+
+Type 2 diabetes: the body becomes resistant to insulin or does not make enough of it. It is the most common form, accounting for roughly 90 percent of all cases, and is strongly linked to excess weight and physical inactivity. It develops slowly and can go unnoticed for years.
+
+Gestational diabetes: high blood glucose first detected during pregnancy. It usually goes away after birth but raises the mother's later risk of type 2 diabetes.
+
+Prediabetes: blood glucose is higher than normal but not high enough to be called diabetes. Prediabetes can often be reversed with lifestyle changes.
