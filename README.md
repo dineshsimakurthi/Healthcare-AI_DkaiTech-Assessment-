@@ -387,38 +387,7 @@ Run with `streamlit run app.py`.
 
 ---
 
-## ✅ Assignment Checklist
 
-**Part 1: Machine Learning**
-- [x] Public healthcare tabular dataset (diabetes)
-- [x] Clean and preprocess the data
-- [x] Handle missing values; train/test split
-- [x] Train at least two classification models
-- [x] Report accuracy, precision, recall, F1-score and ROC-AUC
-- [x] Explain which model performs best and why
-- [x] Save the trained model and create a prediction function
-
-**Part 2: RAG System**
-- [x] 5–10 publicly available healthcare documents (8)
-- [x] Load and clean the documents
-- [x] Split into chunks and generate embeddings
-- [x] Store embeddings in ChromaDB
-- [x] Retrieve relevant passages for a question
-- [x] Generate an answer using an LLM (LangChain LCEL)
-- [x] Show sources; state when the answer is unavailable
-
-**Part 3: Interface (optional)**
-- [x] Streamlit app: patient input → ML prediction → RAG explanation with sources
-
-**Submission**
-- [x] Source code and README with setup instructions
-- [x] Dataset download link
-- [x] Training and RAG indexing code
-- [x] Model performance metrics
-- [ ] Screenshots or short demo video (add after running the app)
-- [x] Limitations and future improvements
-
----
 
 ## 👤 Author
 
